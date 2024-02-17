@@ -1,0 +1,26 @@
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+}
+
+.InputBtnCreate{
+  display: flex;
+  justify-content: center;
+}
+
+ .listContainer {
+  margin-top: 4rem;
+  background: var(--gray-600);
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 46rem;
+  height: 100%; 
+  gap: 0.75rem;
+}

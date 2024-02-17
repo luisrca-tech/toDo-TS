@@ -1,0 +1,23 @@
+.header {
+  display: flex;
+  background: var(--gray-700);
+  color: var(--blue);
+  height: 12.5rem;
+  justify-content: center;
+  align-items: center;
+  font-size: 3rem;
+}
+
+.header img {
+  padding-right: 0.75rem;
+}
+
+.header strong {
+  color: var(--blueDark);
+  font-size: 3rem;
+}
+
+.header span{
+  color: var(--purpleDark);
+  font-size: 3rem;
+}
